@@ -15,7 +15,7 @@ Note: I think you probably just want to use `1password --quick-access` instead, 
 
 ## Requirements
 
-* `wl-{copy,paste} only (so swaywm)
+* `wl-{copy,paste}` only (so swaywm)
 * `libsecret`'s `secret-tool` for storing the 1Password session securely
 * `pinentry-rofi`
 * `libnotify`'s `notify-send`
